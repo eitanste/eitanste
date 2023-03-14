@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eitan</h1>
 <h3 align="center">A passionate Electrical Enginering & CS student from Israel</h3>
 
-- 🌱 I’m currently learning:
--- **ML, OS, Signal processing, Communication Networks**
+ 🌱 I’m currently learning:
+- **Introduction to Machine Learning**
+ - **Operating Systems**
+ - **Signal processing**
+ - **Communication Networks**
 
-- 📫 How to reach me **Eitan.stepanov@gmail.com**
+ 📫 How to reach me **Eitan.stepanov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
