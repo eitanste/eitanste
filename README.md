@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  📫 How to reach me **Eitan.stepanov@gmail.com**
  
 
-<h3 align="left">Connect with me on :     <a href="https://www.linkedin.com/in/eitan-stepanov-96abba231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitan stepanov" height="30" width="40" /></a>
+<h3 align="center">Connect with me on :     <a href="https://www.linkedin.com/in/eitan-stepanov-96abba231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitan stepanov" height="30" width="40" /></a>
 </p>
 <p align="left">
  
