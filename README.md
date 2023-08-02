@@ -24,6 +24,8 @@ Here are some ideas to get you started:
  - **Signal processing**
  - **Communication Networks**
 
+ I'am exited to be focusing on my fourth year engineering project next year!
+
  📫 How to reach me **Eitan.stepanov@gmail.com**
  
 
